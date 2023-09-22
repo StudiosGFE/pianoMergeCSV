@@ -1,4 +1,7 @@
- __![Alt text](image.png)__
+<p align='center'>
+     <img height="100" src="image.png" </img> 
+     
+</p>
 
 # Interview Assessment
 <br>
@@ -7,7 +10,7 @@
 
 - Date: `September 2023`
 - Python 3.11.5
-- script name: piano_MixPY.py 
+- script name: mixPiano.py 
 - input: fileA.csv, fileB.csv, Piano API data 
 - output: mergedFile_PY.csv 
 - modules: requests, csv
