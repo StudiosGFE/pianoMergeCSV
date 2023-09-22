@@ -1,0 +1,13 @@
+plaintext
+# Ignorar archivos de byte compilados de Python y carpetas __pycache__ generadas
+__pycache__/
+*.pyc
+
+# Ignorar archivos de registro y archivos temporales
+*.log
+*.tmp
+
+# Ignorar el directorio de entorno virtual de Python (si usas virtualenv o venv)
+venv/
+env/
+*.env
